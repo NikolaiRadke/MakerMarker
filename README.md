@@ -1,5 +1,5 @@
 # Maker Marker
-![Status](https://www.nikolairadke.de/makermarker/status_1.png)
+![Status](https://www.nikolairadke.de/makermarker/status.png)
 ![Level](https://www.nikolairadke.de/makermarker/level.png)
 ![Contact](https://www.nikolairadke.de/makermarker/contact.png)
 ![Time](https://www.nikolairadke.de/makermarker/time.png)
