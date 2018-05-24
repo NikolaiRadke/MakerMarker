@@ -10,5 +10,5 @@ A label for your project. Discribe the way you want to communicate with others.
 
 Der Maker Marker wurde auf der Maker Faire vorgestellt und diskutiert. Jeder ist nun eingeladen, sich zu beteiligen, ich freue mich über Ideen, Vorschläge, Kritik. Als Forum eignet sich hervorragend der Issue-Bereich, wer sich dort nicht beteilligen möchte, kann mi auch gerne Emails schreiben.
   
-Netzwerke leben vom Mitmachen!
+Ich freue mich auf eine produktive Umsetzung. Netzwerke leben vom Mitmachen!
   
